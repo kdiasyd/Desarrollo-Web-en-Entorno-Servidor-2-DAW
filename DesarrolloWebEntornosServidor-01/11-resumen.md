@@ -3,9 +3,6 @@
   - [11.2. Mapa Mental de la Unidad](#112-mapa-mental-de-la-unidad)
   - [11.3. Checklist de Evaluación](#113-checklist-de-evaluación)
     - [🚀 ¡Ánimo con el estudio!](#-ánimo-con-el-estudio)
-  - [Autor](#autor)
-    - [Contacto](#contacto)
-  - [Licencia de uso](#licencia-de-uso)
 
 # 11. Resumen
 
@@ -76,24 +73,3 @@ Utiliza esta lista para verificar que dominas los conceptos clave antes del exam
 
 ### 🚀 ¡Ánimo con el estudio!
 La Web es gigante, pero ya conoces sus cimientos. Si entiendes cómo viaja una petición HTTP desde tu clic hasta la base de datos y vuelve, ¡ya tienes medio camino recorrido!
-
----
-
-## Autor
-
-Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twitter.com/JoseLuisGS_)
-
-[![Twitter](https://img.shields.io/twitter/follow/JoseLuisGS_?style=social)](https://twitter.com/JoseLuisGS_)
-[![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)](https://github.com/joseluisgs)
-
-### Contacto
-
-<p>
-  Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
-</p>
-
-## Licencia de uso
-
-Este repositorio y todo su contenido está licenciado bajo licencia **Creative Commons**.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
