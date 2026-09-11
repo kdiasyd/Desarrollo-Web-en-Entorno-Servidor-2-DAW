@@ -6,7 +6,6 @@ Desarrollo Web en Entornos Servidor. 2DAW. Curso 2026/2027.
 
 - [Desarrollo Web en Entornos Servidor - Presentación](#desarrollo-web-en-entornos-servidor---presentación)
   - [Contenidos](#contenidos)
-  - [Contenido en Youtube](#contenido-en-youtube)
   - [Resultados de aprendizaje](#resultados-de-aprendizaje)
     - [Evaluación](#evaluación)
   - [Licencia de uso](#licencia-de-uso)
@@ -19,10 +18,6 @@ Desarrollo Web en Entornos Servidor. 2DAW. Curso 2026/2027.
 
 El índice y contenidos puede variar a lo largo del curso para adaptarse al proceso de enseñanza-aprendizaje.
 
-## Contenido en Youtube
-
-- [Lista de Reproducción](https://www.youtube.com/watch?v=tlRgLmopS1g&list=PLGIH-7eZDbVzq51Vk4XHAgQ4fTHZVTLRl)
-- [Presentación](https://www.youtube.com/watch?v=tlRgLmopS1g)
 
 ## Resultados de aprendizaje
 De acuerdo al [Real Decreto 686/2010](https://www.boe.es/boe/dias/2010/06/12/pdfs/BOE-A-2010-9269.pdf), de 20 de mayo de 2010, y actualizado en el [Real Decreto. 405/2023](https://www.boe.es/boe/dias/2023/06/03/pdfs/BOE-A-2023-13221.pdf), de 29 de mayo de 2023 por el que se establece el título de
