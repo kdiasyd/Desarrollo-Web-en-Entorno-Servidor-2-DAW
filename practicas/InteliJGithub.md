@@ -26,7 +26,7 @@
 
 ## Creando el proyecto proyectos integrado con Github
 
-- Creamos un nuevo proyecto
+- Creamos un nuevo proyecto (Recordad que IntelliJ nos permite poner varios subproyectos dentro de un proyecto y será este único proyecto en el que mantendremos todas las prácticas del módulo)
 
 ![IntelliJ7.png](img/IntelliJ7.png)
 
@@ -57,7 +57,7 @@
  
 ![IntelliJ12.png](img/IntelliJ12.png)
 
-- Hacemos el primer commit añadiendo todos los ficheros del proyecto al igual que su configuración
+- Hacemos el primer commit, aunque lo habitual es excluir con un .ignore los archivos propios del entorno local utilizado en el desarrollo en este caso añadiendo todos los ficheros del proyecto al igual que su configuración para comprobar la correcta configuración
  
 ![IntelliJ13.png](img/IntelliJ13.png)
 
