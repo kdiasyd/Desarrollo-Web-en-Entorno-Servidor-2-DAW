@@ -1,6 +1,6 @@
 # Desarrollo Web en Entorno Servidor - 01 - Introducción
 
-Tema 01. Introducción a la Programación de software en Servidor. DAW. Curso 2026-2027.
+Tema 01. Introducción a la Programación de software en Servidor. DAW.
 
 ![imagen](../images/servicios.png)
 
@@ -11,7 +11,6 @@ Tema 01. Introducción a la Programación de software en Servidor. DAW. Curso 20
 - [Resumen](https://youtu.be/8hMghl24sP8)
 - [APIs y protocolos](https://youtu.be/-b2Aq3Dce_E)
 - [Páginas Web Estáticas vs. Dinámicas](https://youtu.be/2e_s8vg3Qyg)
-- [Lista de Reproducción](https://www.youtube.com/watch?v=tlRgLmopS1g&list=PLGIH-7eZDbVzq51Vk4XHAgQ4fTHZVTLRl)
 
 ## Contenidos
 

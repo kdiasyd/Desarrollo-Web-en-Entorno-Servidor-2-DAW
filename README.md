@@ -1,6 +1,6 @@
 # Desarrollo Web en Entornos Servidor - Presentación
 
-Desarrollo Web en Entornos Servidor. 2DAW. Curso 2026/2027.
+Desarrollo Web en Entornos Servidor. 2DAW.
 
 ![imagen](./images/servicios.png)
 

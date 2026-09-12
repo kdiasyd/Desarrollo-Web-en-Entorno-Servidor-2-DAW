@@ -1,6 +1,6 @@
 # Desarrollo Web en Entornos Servidor - 02 - Desarrollo de servicios web en JVM
 
-Tema 02. Desarrollo de servicios web en JVM. 2DAW. Curso 2025-2026.
+Tema 02. Desarrollo de servicios web en JVM. 2DAW.
 
 ![imagen](../images/servicios.png)
 
@@ -27,9 +27,6 @@ Tema 02. Desarrollo de servicios web en JVM. 2DAW. Curso 2025-2026.
 - [GraphQL con Spring Boot](https://youtu.be/c_aNuF8oBVM) 
 - [Caché avanzada con Redis en Spring Boot](https://youtu.be/wk3_8ktYgKQ)
 - [Envío de Emails con Spring Boot](https://youtu.be/RFidXHt0cmc)
-
-## Lista de Reproducción
-- [Lista de Reproducción](https://www.youtube.com/watch?v=tlRgLmopS1g&list=PLGIH-7eZDbVzq51Vk4XHAgQ4fTHZVTLRl)
 
 ## Introducción
 - C# a Java: [Ver](./intro/00-CsharpToJava.md)
@@ -84,4 +81,5 @@ Tema 02. Desarrollo de servicios web en JVM. 2DAW. Curso 2025-2026.
 
 ## Proyecto
 El proyecto realizado en clase podrás seguirlo desde el repositorio de GitHub:
-- [Proyecto](https://github.com/joseluisgs/TiendaApiDaw-SpringBoot)
+- [Proyecto](https://github.com/Ies2dawdes/TiendaDawApi-SpringBoot)
+

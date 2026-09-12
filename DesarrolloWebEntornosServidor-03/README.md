@@ -5,7 +5,7 @@
  
 # Desarrollo Web en Entornos Servidor - 03 - Spring Boot y Pebble
 
-Tema 03. Desarrollo de páginas web dinámicas en JVM. 2DAW. Curso 2026-2027.
+Tema 03. Desarrollo de páginas web dinámicas en JVM. 2DAW.
 
 ![img](./../images03/spring-pebble.webp)
 
@@ -16,7 +16,6 @@ Tema 03. Desarrollo de páginas web dinámicas en JVM. 2DAW. Curso 2026-2027.
 - [Manejo de Formularios](https://youtu.be/Lto449XDyUM)
 - [Motor de Plantillas Pebble](https://youtu.be/FMm2BEVjOoY)
 - [Gestión de Datos Globales, Estado y Seguridad](https://youtu.be/3W_vNbM94Hs)
-- [Lista de Reproducción](https://www.youtube.com/watch?v=tlRgLmopS1g&list=PLGIH-7eZDbVzq51Vk4XHAgQ4fTHZVTLRl)
 
 ## Contenido
 1. [Fundamentos](./01-fundamentos.md) - Generación dinámica, arquitectura MVC, flujo de petición
@@ -33,4 +32,4 @@ Tema 03. Desarrollo de páginas web dinámicas en JVM. 2DAW. Curso 2026-2027.
 ## Proyecto
 
 El proyecto realizado en clase podrás seguirlo desde el repositorio de GitHub:
-- [Proyecto](https://github.com/joseluisgs/WalaDawWeb-SpringBoot)
+- [Proyecto](https://github.com/Ies2dawdes/TiendaDawWeb-SpringBoot)
