@@ -57,7 +57,8 @@
  
 ![IntelliJ12.png](img/IntelliJ12.png)
 
-- Hacemos el primer commit, aunque lo habitual es excluir con un .ignore los archivos propios del entorno local utilizado en el desarrollo en este caso añadiendo todos los ficheros del proyecto al igual que su configuración para comprobar la correcta configuración
+- Hacemos el primer commit, aunque lo habitual es excluir con un .ignore los archivos propios del entorno local. utilizado en el desarrollo.
+- En este caso ya hay un .ignore para no el workspace.xml, aquí hay que añadir si nos aparecen .xml de plugins instalados o el  misc.xml que nos establece la versión del sdk a utilizar 
  
 ![IntelliJ13.png](img/IntelliJ13.png)
 
