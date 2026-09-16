@@ -1,3 +1,4 @@
+# Preparación del entorno de trabajo
 ## Primer proyecto InteliJ con control de versiones
 - Una vez instalado InteliJ lo ejecutamos y nos saldra la siguiente pantalla donde seleccionaremos Customize
 
